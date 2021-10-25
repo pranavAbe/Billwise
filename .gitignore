@@ -1,0 +1,3 @@
+/.env
+modules/authentication/__pycache__/cog.cpython-38.pyc
+modules/authentication/access_tokens.json
